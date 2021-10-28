@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635391861 source:d:\c++\piatrafoarfecehartie\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<stdlib.h>
+
